@@ -1,1 +1,1 @@
-# Simple_Storage_silidity_store-and-retrieve_function
+# Simple_Storage_solidity_store-and-retrieve_function
